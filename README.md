@@ -14,6 +14,7 @@
 - Laborator_5
 - Laborator_6_GitHub
 - Laborator_7
+- Laborator_8
 
 Acest repository conține lucrările de laborator realizate în cadrul disciplinei Tehnici de programare.
 
